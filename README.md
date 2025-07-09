@@ -48,7 +48,7 @@ This project demonstrates how to **host a static website** using **Amazon S3** f
    * Set S3 bucket as origin
    * Enable OAC for secure access
    * Set default root object to `index.html`
-4. **Test via CloudFront domain URL** (e.g., `https://dxxxxxxxxxx.cloudfront.net`)
+4. **Test via CloudFront domain URL** (e.g., `https://dp994uagzkjd9.cloudfront.net`)
 
 ---
 
