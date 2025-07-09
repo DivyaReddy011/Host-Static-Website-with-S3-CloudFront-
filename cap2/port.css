@@ -1,0 +1,54 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://img.freepik.com/free-vector/sky-background-video-conferencing_23-2148623067.jpg?semt=ais_hybrid");
+    background-color: #cccccc;
+    color:black;
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.container>h3 {
+    font-size:  80px; ;
+}
+.container {
+    
+    margin:100px;
+    
+}
+header {
+    padding:100 px;
+    font-size:  25px;
+    display: flex;
+    gap: 100px;
+}
+.projects>h3{
+    margin-left: 500px;
+}
+
+.projects>h2{
+    margin-left: 500px;
+}
+.projects { 
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.project {
+    font-size: 20px;
+    padding: 15px;
+    display:flex;
+    gap: 100px;
+}
+a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.image{
+    margin-left: 400px ;
+    display: flex;
+    gap: 100px;
+}
