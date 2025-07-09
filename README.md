@@ -59,12 +59,6 @@ This project demonstrates how to **host a static website** using **Amazon S3** f
 
 ---
 
-### 🔗 Live Demo (Optional)
-
-> 🌐 [https://dp994uagzkjd9.cloudfront.net]
-
----
-
 ### 📚 Technologies Used
 
 * [AWS S3](https://aws.amazon.com/s3/)
